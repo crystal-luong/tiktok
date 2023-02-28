@@ -11,6 +11,13 @@ function App() {
       <Button />
       <Button />
       <Button />
+      <p>Hi</p>
+      <p>Hi</p>
+      <p>Hi</p>
+      <p>Hi</p>
+      <p>Hi</p>
+      <p>Hi</p>
+      <p>Hi</p>
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
